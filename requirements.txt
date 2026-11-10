@@ -1,0 +1,7 @@
+# 运行时依赖
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# tkinter 属于 Python 标准库，Windows / macOS 官方发行版自带。
+# Debian/Ubuntu 需另行安装：sudo apt install python3-tk
